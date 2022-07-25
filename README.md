@@ -1,16 +1,21 @@
-# Olá!😊 Tudo bem?Eu sou a Elaine Vidoi 🌼Estou estudando Javascrip 
+# Olá! Tudo bem? 😊 <br/>
+<br/>
 
+Meu nome é Elaine Vidoi,
+estou me aventurando nesse novo mundo de programação 🌼
+<br/>
+<br/>
 <div align="center">
   <a href="https://github.com/elainevdi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elainevdi&false=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elainevdi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elainevdi&false=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elainevdi&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="elainevdi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="elainevdi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="elainevdi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">;
-  <img align="right" alt="https://picrew.me/share?cd=IzzpT62U9H">
+  <img align="center" alt="elainevdi-Js" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="elainevdi-HTML" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="elainevdi-CSS" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
 </div>
 
  ##
