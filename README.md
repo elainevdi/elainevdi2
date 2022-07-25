@@ -1,4 +1,4 @@
-# Olá!😊 Tudo bem?Eu sou a elainevdi🌼Estou estudando Javascrip 
+# Olá!😊 Tudo bem?Eu sou a Elaine Vidoi 🌼Estou estudando Javascrip 
 
 <div align="center">
   <a href="https://github.com/elainevdi">
